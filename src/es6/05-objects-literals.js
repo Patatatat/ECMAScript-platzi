@@ -9,4 +9,4 @@ function newUser(user, age, country) {
   }
 }
 
-console.log(newUser("Andres", 31, "MX"));
+console.log(newUser("Andres", 31, "MX", 1));
